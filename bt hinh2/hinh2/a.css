@@ -1,0 +1,19 @@
+#navigation {
+    box-sizing: border-box;
+    width: 100vw;
+    height: fit-content;
+    border: 2px solid;
+    color: white;
+    background-color: #4b0082
+    
+}
+
+#navigation {
+    margin: 0px;
+    bottom: 0px;
+}
+
+section {
+    padding: 20px;
+    font-size: large;
+}

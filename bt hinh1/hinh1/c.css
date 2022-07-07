@@ -1,0 +1,114 @@
+* {
+    margin: 0;
+}
+
+
+#mot {
+    float: left;
+}
+
+
+#do {
+    background-color: rgb(189, 23, 23);
+    width: 285px;
+    height: 180px;
+    box-sizing: border-box;
+    margin-bottom: 20px;
+}
+
+#cam {
+    background-color: rgb(245, 156, 1);
+    width: 285px;
+    height: 345px;
+    box-sizing: border-box;
+ }
+
+
+
+#blue1 {
+    background-color: rgb(103, 212, 192);
+    width: 415px;
+    height: 180px;
+    box-sizing: border-box;
+    float: left;
+}
+
+#blue2 {
+    background-color: rgb(93, 169, 84);
+    width: 152px;
+    height: 180px;
+    box-sizing: border-box;
+    margin-left: 18px;
+    float: left;
+}
+
+#nau {
+    background-color: rgb(245, 161, 71);
+    width: 585px;
+    height: 345px;
+    box-sizing: border-box;
+    margin-top: 18px;
+    float: left;
+}
+
+
+
+#ba {
+    background-color: rgb(54, 152, 216);
+    width: 165px;
+    height: 545px;
+    box-sizing: border-box;
+    margin-left: 18px;
+    float: left;
+
+}
+
+
+
+#bon {
+    background-color: rgb(70, 36, 206);
+    width: 235px;
+    height: 545px;
+    box-sizing: border-box;
+    margin-left: 18px;
+    float: left;
+}
+
+
+
+#nam {
+    background-color: rgb(126, 228, 239);
+    width: 30px;
+    height: 545px;
+    box-sizing: border-box;
+    margin-left: 18px;
+    float: left;
+} 
+
+
+#hai {
+    float: left;
+    margin-left: 18px;
+    width: 585px;
+}
+
+#blue {
+    display: flex;
+}
+
+
+
+
+
+
+
+
+#ABC {
+    width: 1505px;
+    height: 656px;
+    padding: 55px 66px;
+    background-color: rgb(206, 178, 232);
+    box-sizing: border-box;
+}
+
+
